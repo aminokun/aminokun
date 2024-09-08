@@ -2,6 +2,7 @@
 
 
 <div align="center">
+  <p>21y/o 3rd year Software Engineering student</p>
   <!-- Waka Time Card -->
   <img align=top height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=minosh&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Time%20Spent%20Coding"/>
   <!-- GitHub Stats Card -->  
