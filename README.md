@@ -1,7 +1,7 @@
 <div align="center">
   <p>21y/o 3rd year Software Engineering student</p>
   <!-- GitHub Top Language Card -->
-  <img align="top" width="478" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminokun&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+  <img align="top" width="478" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminokun&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
   <!-- GitHub Stats Card -->  
   <img align="top" height="200" src="https://github-readme-stats.vercel.app/api?username=aminokun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=My%20GitHub%20Stats"/>
   <!-- Waka Time Card -->
