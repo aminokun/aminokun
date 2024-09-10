@@ -9,6 +9,8 @@
   <img align=top height="200" src="https://github-readme-stats.vercel.app/api?username=aminokun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=My%20GitHub%20Stats"/>
   <!-- GitHub Top Language Card -->
   <img align=top height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminokun&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+  <!-- LeetCode Card -->
+  <img align=top height="200" src="https://leetcode.card.workers.dev/aminokun?theme=nord&font=baloo&extension=null"/>
 </div>
 
 
