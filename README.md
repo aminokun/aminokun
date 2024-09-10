@@ -7,5 +7,5 @@
   <!-- Waka Time Card -->
   <img align="top" width="480" src="https://github-readme-stats.vercel.app/api/wakatime?username=minosh&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Time%20Spent%20Coding"/>
   <!-- LeetCode Card -->
-  <img align="top" width="470" src="https://leetcode.card.workers.dev/aminokun?theme=nord&font=baloo&extension=null"/>
+  <img align="top" width="478" src="https://leetcode.card.workers.dev/aminokun?theme=nord&font=baloo&extension=null"/>
 </div>
