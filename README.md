@@ -6,6 +6,8 @@
   <img align="top" height="200" src="https://github-readme-stats.vercel.app/api?username=aminokun&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&custom_title=My%20GitHub%20Stats"/>
   <!-- Waka Time Card -->
   <img align="top" width="480" src="https://github-readme-stats.vercel.app/api/wakatime?username=minosh&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Time%20Spent%20Coding"/>
+  <!-- Streak card -->
+  <img align="top" width="495" src="https://streak-stats.demolab.com?user=aminokun&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats"/>
   <!-- LeetCode Card -->
   <img align="top" width="478" src="https://leetcode.card.workers.dev/aminokun?theme=dark&font=baloo&extension=activity"/>
 </div>
