@@ -7,7 +7,7 @@
   <!-- Waka Time Card -->
   <img align="top" width="480" src="https://github-readme-stats.vercel.app/api/wakatime?username=minosh&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Time%20Spent%20Coding"/>
   <!-- Streak card -->
-  <img align="top" width="490" src="https://streak-stats.demolab.com?user=aminokun&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats" />
+  <img align="top" width="480" src="https://streak-stats.demolab.com?user=aminokun&theme=dark&hide_border=true&border_radius=5&card_width=480" />
   <!-- LeetCode Card -->
   <img align="top" width="478" src="https://leetcode.card.workers.dev/aminokun?theme=dark&font=baloo&extension=activity"/>
 </div>
