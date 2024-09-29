@@ -9,6 +9,6 @@
   <!-- Streak card -->
   <img align="top" width="480" src="https://streak-stats.demolab.com?user=aminokun&theme=dark&hide_border=true&border_radius=5&card_width=480" />
   <!-- LeetCode Card -->
-  <img align="top" width="478" src="https://leetcard.jacoblin.cool/aminokun?theme=dark&font=Baloo%202&ext=heatmap"/>
+  <img align="top" width="478" src="https://leetcard.jacoblin.cool/aminokun?theme=dark&font=Baloo%202&ext=activity"/>
 </div>
 <!--   <img align="top" width="478" src="https://leetcode.card.workers.dev/aminokun?theme=dark&font=baloo&extension=activity"/> -->
