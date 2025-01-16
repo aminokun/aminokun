@@ -1,5 +1,5 @@
 <div align="center">
-  <p>21y/o 3rd year Software Engineering student</p>
+  <p>22y/o 3rd year Software Engineering student</p>
   <!-- GitHub Top Language Card -->
   <img align="top" width="478" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminokun&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
   <!-- GitHub Stats Card -->  
