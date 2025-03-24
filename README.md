@@ -1,5 +1,6 @@
 <div align="center">
   <p>22y/o 3rd year Software Engineering student</p>
+  [![wakatime](https://wakatime.com/badge/user/0d8bbfd4-ddbf-4e97-99ed-a5c2a35b2489.svg)](https://wakatime.com/@0d8bbfd4-ddbf-4e97-99ed-a5c2a35b2489)
   <!-- GitHub Top Language Card -->
   <img align="top" width="478" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminokun&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
   <!-- GitHub Stats Card -->  
